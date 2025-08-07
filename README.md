@@ -1,2 +1,2 @@
 # Table
-Assingnment 1
+Assignment 1
